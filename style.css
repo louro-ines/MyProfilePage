@@ -5,11 +5,11 @@
 /* STYLING */
 body {
   /* background-color: rgb(245, 245, 245); */
-   min-height: 100%;
-   background-image: linear-gradient(to bottom right, #FAAD80, #FF6767, #FF3D68, #A73489);
-   background-size: cover;
-   background-repeat: no-repeat;
-   background-position: center center;
+  background-image: linear-gradient(to bottom right, #FAAD80, #FF6767, #FF3D68, #A73489);
+  min-height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   color: rgb(15, 15, 15);
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
