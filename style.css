@@ -121,6 +121,15 @@ form {
   font-size: 40px;
 }
 
+#thanks {
+  margin-top: 35px;
+  margin-left: 35px;
+}
+
+#thanks h2 {
+  color: white;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 960px) {
   .container {
