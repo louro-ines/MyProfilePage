@@ -77,16 +77,6 @@ form {
   margin-bottom: 10px;
 }
 
-#message {
-  color: rgb(50, 50, 50);
-  width: 520px;
-  height: 300px;
-  border: 1px solid rgba(0,0,0,.1);
-  border-radius: 2px;
-  padding: 20px;
-  margin-bottom: 10px;
-}
-
 .card img {
   border-radius: 50%;
 }
@@ -139,10 +129,6 @@ form {
   #info_field {
     width: 485px;
   }
-
-  #message {
-    width: 485px;
-  }
 }
 
 @media (max-width: 720px) {
@@ -153,10 +139,6 @@ form {
   #info_field {
     width: 346px;
   }
-
-  #message {
-    width: 346px;
-  }
 }
 
 @media (max-width: 540px) {
@@ -165,10 +147,6 @@ form {
   }
 
   #info_field {
-    width: 208px;
-  }
-
-  #message {
     width: 208px;
   }
 }
